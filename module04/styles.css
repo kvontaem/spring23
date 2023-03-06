@@ -1,0 +1,61 @@
+body {
+font-family: "Georgia" , times, serif;
+color: #000000;
+line-height: 140%;
+margin: 30px 30px 30px 30px;
+background-image: url(images/page-bg.gif);
+background-color: #F7F3DE;
+}
+
+header h1 {
+    font-size: 350%;
+    color: #7C1A00;
+    padding: 40px;
+padding-left: 120px;
+background-image: url(images/header-image-1.gif);
+background-position: left top;
+background-repeat: no-repeat;
+}
+
+#container
+ margin-bottom: 30px;
+}
+
+nav u1 {
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+    color: #7C1A00;
+}
+
+nav li {
+   margin: 10px;
+ border-width: 1px;
+   border-style: solid;
+   border-color: #7C1A00;
+    background-color: #ffe597;
+}
+
+nav a {}
+    color: white;
+    background-color: #7C1A00;
+    padding: 3px;
+    padding-right: 60px;
+    text-decorations: none;
+}
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
